@@ -14,3 +14,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+ror-bookmarks.sublime-project
+ror-bookmarks.sublime-workspace
+sftp-config.json
