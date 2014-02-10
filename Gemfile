@@ -43,3 +43,12 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+
+### my gems
+#use foundation framework
+#gem 'foundation'
+#use compass for sass file compiling
+#gem 'compass-rails'
+#foundation rails gem
+#gem 'foundation-rails'
